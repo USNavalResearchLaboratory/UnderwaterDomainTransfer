@@ -1,0 +1,36 @@
+{
+ "name": "hands_cropped",
+ "epochs trained": 40.0,
+ "start_time": "2025-07-11 13:41:02",
+ "end_time": "2025-07-11 14:13:09",
+ "result_metric": {
+  "test_loss": 1.1367045640945435,
+  "test_runtime": 12.8473,
+  "test_samples_per_second": 35.805,
+  "test_steps_per_second": 2.257
+ },
+ "recall_train": {
+  "close": 0.9574468085106383,
+  "down": 1.0,
+  "left": 1.0,
+  "open": 0.9891304347826086,
+  "right": 1.0,
+  "up": 0.970873786407767
+ },
+ "recall_val": {
+  "close": 1.0,
+  "down": 0.9666666666666667,
+  "left": 1.0,
+  "open": 1.0,
+  "right": 1.0,
+  "up": 1.0
+ },
+ "recall_test": {
+  "close": 0.71900826446281,
+  "down": 0.9574468085106383,
+  "left": 0.014285714285714285,
+  "open": 1.0,
+  "right": 0.0,
+  "up": 0.9701492537313433
+ }
+}

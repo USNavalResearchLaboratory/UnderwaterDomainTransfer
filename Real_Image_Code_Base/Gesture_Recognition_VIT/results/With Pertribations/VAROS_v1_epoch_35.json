@@ -1,0 +1,36 @@
+{
+ "name": "VAROS_v1_epoch_35",
+ "epochs trained": 40.0,
+ "start_time": "2025-07-15 18:52:40",
+ "end_time": "2025-07-15 19:24:17",
+ "result_metric": {
+  "test_loss": 1.264330506324768,
+  "test_runtime": 11.6336,
+  "test_samples_per_second": 39.54,
+  "test_steps_per_second": 2.493
+ },
+ "recall_train": {
+  "close": 1.0,
+  "down": 1.0,
+  "left": 1.0,
+  "open": 1.0,
+  "right": 1.0,
+  "up": 1.0
+ },
+ "recall_val": {
+  "close": 1.0,
+  "down": 0.967741935483871,
+  "left": 1.0,
+  "open": 1.0,
+  "right": 1.0,
+  "up": 0.9642857142857143
+ },
+ "recall_test": {
+  "close": 0.06611570247933884,
+  "down": 0.7872340425531915,
+  "left": 0.7714285714285715,
+  "open": 0.7373737373737373,
+  "right": 0.0,
+  "up": 1.0
+ }
+}

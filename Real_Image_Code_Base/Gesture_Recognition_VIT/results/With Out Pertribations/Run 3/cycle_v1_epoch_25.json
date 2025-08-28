@@ -1,0 +1,36 @@
+{
+ "name": "cycle_v1_epoch_25",
+ "epochs trained": 15.0,
+ "start_time": "2025-06-23 13:45:06",
+ "end_time": "2025-06-23 13:57:03",
+ "result_metric": {
+  "test_loss": 0.9825297594070435,
+  "test_runtime": 10.9202,
+  "test_samples_per_second": 42.124,
+  "test_steps_per_second": 2.656
+ },
+ "recall_train": {
+  "close": 1.0,
+  "down": 1.0,
+  "left": 1.0,
+  "open": 1.0,
+  "right": 1.0,
+  "up": 1.0
+ },
+ "recall_val": {
+  "close": 1.0,
+  "down": 1.0,
+  "left": 1.0,
+  "open": 1.0,
+  "right": 0.9230769230769231,
+  "up": 1.0
+ },
+ "recall_test": {
+  "close": 0.9173553719008265,
+  "down": 0.7872340425531915,
+  "left": 0.9857142857142858,
+  "open": 1.0,
+  "right": 0.0,
+  "up": 0.44776119402985076
+ }
+}

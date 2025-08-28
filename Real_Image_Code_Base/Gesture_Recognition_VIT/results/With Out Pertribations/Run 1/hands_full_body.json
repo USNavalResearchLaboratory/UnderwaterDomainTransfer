@@ -1,0 +1,36 @@
+{
+ "name": "hands_full_body",
+ "epochs trained": 5.0,
+ "start_time": "2025-06-10 14:21:19",
+ "end_time": "2025-06-10 14:29:26",
+ "result_metric": {
+  "test_loss": 1.6725128889083862,
+  "test_runtime": 89.6049,
+  "test_samples_per_second": 7.779,
+  "test_steps_per_second": 0.246
+ },
+ "recall_train": {
+  "close": 1.0,
+  "down": 1.0,
+  "left": 1.0,
+  "open": 1.0,
+  "right": 1.0,
+  "up": 1.0
+ },
+ "recall_val": {
+  "close": 1.0,
+  "down": 1.0,
+  "left": 1.0,
+  "open": 1.0,
+  "right": 1.0,
+  "up": 0.9583333333333334
+ },
+ "recall_test": {
+  "close": 0.3333333333333333,
+  "down": 0.0,
+  "left": 0.008264462809917356,
+  "open": 0.7986111111111112,
+  "right": 0.0,
+  "up": 0.42201834862385323
+ }
+}

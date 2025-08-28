@@ -1,0 +1,36 @@
+{
+ "name": "hands_underwaterizer_v1_epoch_5",
+ "epochs trained": 40.0,
+ "start_time": "2025-06-30 13:26:52",
+ "end_time": "2025-06-30 13:58:38",
+ "result_metric": {
+  "test_loss": 0.9125781059265137,
+  "test_runtime": 11.2745,
+  "test_samples_per_second": 40.8,
+  "test_steps_per_second": 2.572
+ },
+ "recall_train": {
+  "close": 0.9183673469387755,
+  "down": 0.9914529914529915,
+  "left": 0.9921875,
+  "open": 0.967741935483871,
+  "right": 0.9855072463768116,
+  "up": 0.9809523809523809
+ },
+ "recall_val": {
+  "close": 0.9473684210526315,
+  "down": 0.9743589743589743,
+  "left": 1.0,
+  "open": 1.0,
+  "right": 1.0,
+  "up": 1.0
+ },
+ "recall_test": {
+  "close": 0.6611570247933884,
+  "down": 1.0,
+  "left": 0.44285714285714284,
+  "open": 1.0,
+  "right": 0.35714285714285715,
+  "up": 0.3880597014925373
+ }
+}

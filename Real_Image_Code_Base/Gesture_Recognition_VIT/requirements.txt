@@ -1,0 +1,23 @@
+# torch==1.9.0+cu102
+# torchvision>=0.5.0
+# dominate>=2.4.0
+# visdom>=0.1.8.8
+# packaging
+# GPUtil>=1.4.0
+# datasets 
+# # transformers==4.38.0
+# transformers==4.37.2
+# accelerate==0.28.0 
+# evaluate
+# scikit-learn
+# tensorboardx
+
+datasets
+transformers
+accelerate
+torch 
+torchvision 
+scikit-learn 
+matplotlib 
+wandb
+tensorboardx

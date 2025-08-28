@@ -1,0 +1,36 @@
+{
+ "name": "hands_underwaterizer_v1_epoch_15_CHEAT",
+ "epochs trained": 40.0,
+ "start_time": "2025-06-30 15:02:29",
+ "end_time": "2025-06-30 15:41:12",
+ "result_metric": {
+  "test_loss": 0.8899595737457275,
+  "test_runtime": 7.0363,
+  "test_samples_per_second": 40.646,
+  "test_steps_per_second": 2.558
+ },
+ "recall_train": {
+  "close": 0.9548872180451128,
+  "down": 0.9859154929577465,
+  "left": 0.9852941176470589,
+  "open": 0.9661016949152542,
+  "right": 0.9893617021276596,
+  "up": 0.9761904761904762
+ },
+ "recall_val": {
+  "close": 0.8846153846153846,
+  "down": 0.9696969696969697,
+  "left": 0.9777777777777777,
+  "open": 0.868421052631579,
+  "right": 0.7222222222222222,
+  "up": 0.8571428571428571
+ },
+ "recall_test": {
+  "close": 1.0,
+  "down": 1.0,
+  "left": 1.0,
+  "open": 0.9180327868852459,
+  "right": 0.0,
+  "up": 0.1
+ }
+}
