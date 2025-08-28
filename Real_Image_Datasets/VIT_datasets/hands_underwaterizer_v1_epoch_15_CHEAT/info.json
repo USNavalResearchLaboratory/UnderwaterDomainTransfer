@@ -1,0 +1,70 @@
+{
+ "_meta": {
+  "_name": "hands_underwaterizer_v1_epoch_15_CHEAT",
+  "_desc": "A cheat set with augmented epoch v1 data mixed with some test set",
+  "_path": "./datasets/hands_underwaterizer_v1_epoch_15_CHEAT"
+ },
+ "data": {
+  "total_count": 1223,
+  "includes": {
+   "test": {
+    "count": 286,
+    "includes": {
+     "left": {
+      "count": 46,
+      "includes": {}
+     },
+     "up": {
+      "count": 40,
+      "includes": {}
+     },
+     "close": {
+      "count": 79,
+      "includes": {}
+     },
+     "right": {
+      "count": 32,
+      "includes": {}
+     },
+     "open": {
+      "count": 61,
+      "includes": {}
+     },
+     "down": {
+      "count": 28,
+      "includes": {}
+     }
+    }
+   },
+   "train": {
+    "count": 937,
+    "includes": {
+     "left": {
+      "count": 181,
+      "includes": {}
+     },
+     "up": {
+      "count": 154,
+      "includes": {}
+     },
+     "close": {
+      "count": 159,
+      "includes": {}
+     },
+     "right": {
+      "count": 112,
+      "includes": {}
+     },
+     "open": {
+      "count": 156,
+      "includes": {}
+     },
+     "down": {
+      "count": 175,
+      "includes": {}
+     }
+    }
+   }
+  }
+ }
+}

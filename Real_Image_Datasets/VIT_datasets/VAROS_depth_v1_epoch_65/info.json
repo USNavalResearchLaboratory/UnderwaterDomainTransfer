@@ -1,0 +1,70 @@
+{
+ "_meta": {
+  "_name": "VAROS_depth_v1_epoch_65",
+  "_desc": "The 5 epoch CUT gan trained on varos dataset with depth pro depth prediction",
+  "_path": "./datasets/VAROS_depth_v1_epoch_65"
+ },
+ "data": {
+  "total_count": 1,
+  "includes": {
+   "test": {
+    "count": 0,
+    "includes": {
+     "left": {
+      "count": 0,
+      "includes": {}
+     },
+     "up": {
+      "count": 0,
+      "includes": {}
+     },
+     "close": {
+      "count": 0,
+      "includes": {}
+     },
+     "right": {
+      "count": 0,
+      "includes": {}
+     },
+     "open": {
+      "count": 0,
+      "includes": {}
+     },
+     "down": {
+      "count": 0,
+      "includes": {}
+     }
+    }
+   },
+   "train": {
+    "count": 0,
+    "includes": {
+     "left": {
+      "count": 0,
+      "includes": {}
+     },
+     "up": {
+      "count": 0,
+      "includes": {}
+     },
+     "close": {
+      "count": 0,
+      "includes": {}
+     },
+     "right": {
+      "count": 0,
+      "includes": {}
+     },
+     "open": {
+      "count": 0,
+      "includes": {}
+     },
+     "down": {
+      "count": 0,
+      "includes": {}
+     }
+    }
+   }
+  }
+ }
+}

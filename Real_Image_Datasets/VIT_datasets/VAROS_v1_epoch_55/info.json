@@ -1,0 +1,70 @@
+{
+ "_meta": {
+  "_name": "VAROS_v1_epoch_55",
+  "_desc": "The 55 epoch CUT gan trained on varos dataset",
+  "_path": "./datasets/VAROS_v1_epoch_55"
+ },
+ "data": {
+  "total_count": 1223,
+  "includes": {
+   "test": {
+    "count": 460,
+    "includes": {
+     "left": {
+      "count": 70,
+      "includes": {}
+     },
+     "up": {
+      "count": 67,
+      "includes": {}
+     },
+     "close": {
+      "count": 121,
+      "includes": {}
+     },
+     "right": {
+      "count": 56,
+      "includes": {}
+     },
+     "open": {
+      "count": 99,
+      "includes": {}
+     },
+     "down": {
+      "count": 47,
+      "includes": {}
+     }
+    }
+   },
+   "train": {
+    "count": 763,
+    "includes": {
+     "left": {
+      "count": 157,
+      "includes": {}
+     },
+     "up": {
+      "count": 127,
+      "includes": {}
+     },
+     "close": {
+      "count": 117,
+      "includes": {}
+     },
+     "right": {
+      "count": 88,
+      "includes": {}
+     },
+     "open": {
+      "count": 118,
+      "includes": {}
+     },
+     "down": {
+      "count": 156,
+      "includes": {}
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "_meta": {
+  "_name": "hands_cropped",
+  "_desc": "The in lab images cropped to the hands with media pipe. Test is the underwater images of nate with the same thing",
+  "_path": "./datasets/hands_cropped"
+ },
+ "data": {
+  "total_count": 1222,
+  "includes": {
+   "test": {
+    "count": 460,
+    "includes": {
+     "left": {
+      "count": 70,
+      "includes": {}
+     },
+     "up": {
+      "count": 67,
+      "includes": {}
+     },
+     "close": {
+      "count": 121,
+      "includes": {}
+     },
+     "right": {
+      "count": 56,
+      "includes": {}
+     },
+     "open": {
+      "count": 99,
+      "includes": {}
+     },
+     "down": {
+      "count": 47,
+      "includes": {}
+     }
+    }
+   },
+   "train": {
+    "count": 762,
+    "includes": {
+     "left": {
+      "count": 156,
+      "includes": {}
+     },
+     "up": {
+      "count": 127,
+      "includes": {}
+     },
+     "close": {
+      "count": 117,
+      "includes": {}
+     },
+     "right": {
+      "count": 88,
+      "includes": {}
+     },
+     "open": {
+      "count": 118,
+      "includes": {}
+     },
+     "down": {
+      "count": 156,
+      "includes": {}
+     }
+    }
+   }
+  }
+ }
+}
